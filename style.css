@@ -1,0 +1,13 @@
+#profilePicture
+{
+    border-radius: 7em;
+    width: 20em;
+    height: 20em
+}
+
+.icons
+{
+    width: 2em;
+    height: 2em;
+    margin-right: 1em;
+}
