@@ -11,3 +11,37 @@
     height: 2em;
     margin-right: 1em;
 }
+
+
+.mylink
+{
+    text-decoration: none;
+    color: black;
+}
+
+
+.mylink:hover
+{
+    text-decoration: none;
+    color: black;
+}
+
+h1
+{
+    font-family: 'Manrope', serif;
+}
+
+h2
+{
+    font-family: 'Martel', serif;
+}
+
+h3
+{
+    font-family: 'Martel', serif;
+}
+
+span
+{
+    font-family: 'Prompt', serif;
+}
